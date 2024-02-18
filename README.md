@@ -1,3 +1,8 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/ABKAM2023/CS2-TeamColorChangeModel?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/ABKAM2023/CS2-TeamColorChangeModel?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/ABKAM2023/CS2-TeamColorChangeModel?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/ABKAM2023/CS2-TeamColorChangeModel/total?style=for-the-badge)
+
 # EN
 **Team Color Change Model** is a plugin designed to change the color of player models according to their team color. It is particularly useful in situations where the original player models may blend into the map environment, making them difficult to distinguish. This plugin helps to improve the visual differentiation between teams, facilitating players' ability to perceive opponents against the game environment.
 
